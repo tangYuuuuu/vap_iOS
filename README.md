@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 
+扩展了对SMP的支持，仅保留了iOS的部分，移除了安卓、web的部分
+
+SPM: https://github.com/tangYuuuuu/vap_iOS.git
+
 简体中文 | [English](./README_en.md)
 
 VAP（Video Animation Player）是企鹅电竞开发，用于播放酷炫动画的实现方案。
