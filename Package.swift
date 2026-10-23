@@ -8,13 +8,13 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "QGVAPplayer",
-            targets: ["QGVAPplayer"]
+            name: "iOSVAPplayer",
+            targets: ["iOSVAPplayer"]
         )
     ],
     targets: [
         .target(
-            name: "QGVAPplayer",
+            name: "iOSVAPplayer",
             path: "iOS/QGVAPlayer/QGVAPlayer",
             exclude: [
                 "Info.plist",
