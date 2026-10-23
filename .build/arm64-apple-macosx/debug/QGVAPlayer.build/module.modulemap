@@ -1,0 +1,4 @@
+module QGVAPlayer {
+    umbrella "/Users/tangYu/GitHub/ForkProjects/vap_iOS/iOS/QGVAPlayer/QGVAPlayer/include"
+    export *
+}
