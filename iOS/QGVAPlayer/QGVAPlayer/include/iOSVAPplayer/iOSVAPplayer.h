@@ -1,17 +1,17 @@
 //
-//  iOSVAPplayer.h
-//  iOSVAPplayer
+//  iOSVAPPlayer.h
+//  iOSVAPPlayer
 //
 //  Umbrella header for SPM public API
 //
 
 #import <UIKit/UIKit.h>
 
-#ifndef iOSVAPplayer_Umbrella_h
-#define iOSVAPplayer_Umbrella_h
+#ifndef iOSVAPPlayer_Umbrella_h
+#define iOSVAPPlayer_Umbrella_h
 
 #import "UIView+VAP.h"
 #import "QGVAPWrapView.h"
 #import "VAPMacros.h"
 
-#endif /* iOSVAPplayer_Umbrella_h */
+#endif /* iOSVAPPlayer_Umbrella_h */
